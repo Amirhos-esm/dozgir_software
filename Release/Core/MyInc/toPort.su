@@ -1,0 +1,4 @@
+toPort.c:5:6:sim800c_transmit	16	static
+toPort.c:11:6:sim800c_onError	8	static
+toPort.c:16:6:USART1_IRQHandler	8	static
+toPort.c:21:6:init_uart	8	static

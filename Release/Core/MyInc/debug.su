@@ -1,0 +1,2 @@
+debug.c:22:6:swap	16	static
+debug.c:12:1:__io_putchar	16	static

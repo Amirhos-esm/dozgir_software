@@ -1,0 +1,8 @@
+cppQueue.cpp:41:1:cppQueue::cppQueue(uint16_t, uint16_t, cppQueueType, bool)	16	static
+cppQueue.cpp:62:1:cppQueue::~cppQueue()	8	static
+cppQueue.cpp:68:6:void cppQueue::flush()	0	static
+cppQueue.cpp:76:31:bool cppQueue::push(const void*)	8	static
+cppQueue.cpp:95:31:bool cppQueue::pop(void*)	16	static
+cppQueue.cpp:119:31:bool cppQueue::peek(void*)	8	static
+cppQueue.cpp:143:6:bool cppQueue::drop()	8	static
+cppQueue.cpp:156:6:bool cppQueue::peekIdx(void*, uint16_t)	16	static

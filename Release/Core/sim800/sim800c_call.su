@@ -1,0 +1,9 @@
+sim800c_call.c:64:1:sim800c_call_hangup	8	static
+sim800c_call.c:11:1:sim800c_call_onUrc	24	static
+sim800c_call.c:41:1:sim800c_call	8	static
+sim800c_call.c:74:1:sim800c_call_answer	16	static
+sim800c_call.c:91:1:sim800c_call_getNumber	24	static
+sim800c_call.c:121:1:sim800c_call_getStatus	0	static
+sim800c_call.c:126:1:sim800c_dtmf_enable	8	static
+sim800c_call.c:137:1:sim800c_dtmf_disable	8	static
+sim800c_call.c:147:1:sim800c_dtmf_register_cb	0	static

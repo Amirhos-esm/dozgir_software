@@ -1,0 +1,4 @@
+sim800c_general.c:5:6:sim800c_getTime	32	static
+sim800c_general.c:17:14:sim800c_getTime_str	8	static
+sim800c_general.c:39:6:sim800c_setTime_str	8	static
+sim800c_general.c:34:6:sim800c_setTime	32	static

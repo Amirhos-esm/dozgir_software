@@ -1,0 +1,17 @@
+sim800c.c:16:6:strcmp_m	8	static
+sim800c.c:40:6:sim800c_onDataReceive	16	static
+sim800c.c:58:6:sim800c_strTransmit	8	static
+sim800c.c:274:13:anyOtherData	8	static
+sim800c.c:63:6:sim800c_setTimeout	0	static
+sim800c.c:68:7:sim800c_getBuffer	0	static
+sim800c.c:72:10:sim800c_bufferLength	0	static
+sim800c.c:77:6:sim800c_releaseBuffer	8	static
+sim800c.c:83:9:sim800c_getResult	0	static
+sim800c.c:88:6:sim800c_putData	0	static
+sim800c.c:93:6:sim800c_loop	8	static
+sim800c.c:150:6:readResponse	32	static
+sim800c.c:284:7:begin_ignore	0	static
+sim800c.c:289:6:sim800c_sendTestCommand	8	static
+sim800c.c:302:6:sim800c_sendReadCommand	8	static
+sim800c.c:314:6:sim800c_sendExeCommand	8	static
+sim800c.c:327:6:sim800c_sendWriteCommand	16	static

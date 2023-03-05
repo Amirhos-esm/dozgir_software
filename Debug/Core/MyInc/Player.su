@@ -1,0 +1,12 @@
+Player.c:29:22:getChannel	16	static
+Player.c:37:6:player_init	8	static
+Player.c:41:6:player_pause	24	static
+Player.c:55:6:player_resume	24	static
+Player.c:68:6:player_play	32	static
+Player.c:83:6:player_abort	24	static
+Player.c:97:6:player_isPlaying	24	static
+Player.c:104:13:player_getState	24	static
+Player.c:112:6:player_on_pwm_finish	32	static
+Player.c:140:17:audioFill	32	static
+Player.c:154:13:handle_sw_it	16	static
+Player.c:203:6:player_on_sw_it	8	static

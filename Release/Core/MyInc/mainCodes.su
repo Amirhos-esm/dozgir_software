@@ -1,0 +1,13 @@
+mainCodes.cpp:84:1:void turnOffModule()	8	static
+mainCodes.cpp:16:3:void HAL_GPIO_EXTI_Callback(uint16_t)	16	static
+mainCodes.cpp:52:1:uint8_t getMode()	0	static
+mainCodes.cpp:58:1:void speaker_add(uint8_t)	0	static
+mainCodes.cpp:64:1:void smsQueueAdd(int)	16	static
+mainCodes.cpp:69:1:void smsQueueHandle()	16	static
+mainCodes.cpp:84:1:void turnOffModule()	8	static
+mainCodes.cpp:94:1:void turnOnModule()	8	static
+mainCodes.cpp:105:1:void printfRes(uint8_t)	8	static
+mainCodes.cpp:118:1:void setup()	32	static,ignoring_inline_asm
+mainCodes.cpp:162:1:void loop()	16	static
+mainCodes.cpp:400:1:cpp)	16	static
+mainCodes.cpp:400:1:cpp)	8	static

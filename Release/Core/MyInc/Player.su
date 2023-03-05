@@ -1,0 +1,12 @@
+Player.c:160:13:fillSegment	24	static
+Player.c:185:13:handle_softwareitr	24	static
+Player.c:58:6:player_init	8	static
+Player.c:65:6:player_pause	8	static
+Player.c:78:6:player_resume	8	static
+Player.c:110:6:player_abort	8	static
+Player.c:94:6:player_play	16	static
+Player.c:88:6:player_replay	8	static
+Player.c:124:6:player_isPlaying	0	static
+Player.c:131:13:player_getState	0	static
+Player.c:231:6:player_on_sw_it	8	static
+Player.c:238:6:player_on_dma_finish	8	static

@@ -1,0 +1,11 @@
+Player_ll.c:42:13:handle_dma_finish	8	static
+Player_ll.c:8:6:playerll_init	0	static
+Player_ll.c:21:6:playerll_pwm_set	0	static
+Player_ll.c:28:10:playerll_pwm_get	0	static
+Player_ll.c:36:6:playerll_read	8	static
+Player_ll.c:52:6:playerll_dma_stop	16	static
+Player_ll.c:62:6:playerll_dma_start	16	static
+Player_ll.c:90:6:playerll_dma_pause	8	static
+Player_ll.c:102:6:playerll_dma_unpause	0	static
+Player_ll.c:115:6:EXTI2_3_IRQHandler	8	static
+Player_ll.c:120:6:playerll_generate_software_it	0	static

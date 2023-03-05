@@ -1,0 +1,2 @@
+mainCodes.cpp:4:6:void setup()	8	static
+mainCodes.cpp:10:6:void loop()	8	static

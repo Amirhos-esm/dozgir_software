@@ -1,0 +1,6 @@
+sim800c_interface.c:9:1:on_RDY	0	static
+sim800c_interface.c:15:1:on_NORMAL_POWER_DOWN	0	static
+sim800c_interface.c:21:1:on_RING	8	static
+sim800c_interface.c:27:1:on_NO_CARRIER	0	static
+sim800c_interface.c:32:1:on_plus	16	static
+sim800c_interface.c:57:1:on_urc	8	static
